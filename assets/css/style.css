@@ -1219,3 +1219,10 @@ section {
   color: black;
   border: 2px solid #555555;
 }
+
+.rounded-img {
+  width: 400px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin: 0 auto;;
+}
